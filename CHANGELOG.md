@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.7.0...v1.8.0) (2025-03-09)
+
+
+### Features
+
+* Working With Colors ([3704f02](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/3704f02d2dfdb1d06213cd8709ace805e8d952da))
+
 ## [1.7.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.6.0...v1.7.0) (2025-03-09)
 
 
