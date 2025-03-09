@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.5.0...v1.6.0) (2025-03-09)
+
+
+### Features
+
+* Add Inline, Internal and External CSS ([bbc74d4](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/bbc74d4e9af60856cb176f9210af04199b2f2534))
+* Styling Text ([d4e211d](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/d4e211da51864ae6ebe1da717a961a7d5b2dcdfc))
+
 ## [1.5.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.4.0...v1.5.0) (2025-03-09)
 
 
