@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.6.0...v1.7.0) (2025-03-09)
+
+
+### Features
+
+* Class and ID Selectors ([c570546](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/c570546bc1f1c489b43f384372fae426ec222c83))
+* Combining Selectors ([27820eb](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/27820ebb181a18c9f789d0a9ec7b8d7c75151a81))
+
 ## [1.6.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.5.0...v1.6.0) (2025-03-09)
 
 
