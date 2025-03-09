@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.1.0...v1.2.0) (2025-03-09)
+
+
+### Features
+
+* Add Text Elements ([8826277](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/88262778884049a48de4f2467c4f3545ecf5b70c))
+* Add the basic structure of HTML ([64ba690](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/64ba69047c0afaae05bd73a528482e198b4706fc))
+
 ## 1.1.0 (2025-03-09)
 
 
