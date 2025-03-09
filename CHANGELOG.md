@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.3.0...v1.4.0) (2025-03-09)
+
+
+### Features
+
+* Add a note on Semantic HTML ([0ec417e](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/0ec417edabf41423b57b0d616b93f4b24b544902))
+* Add Structuring our Page ([22efc01](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/22efc0154ab294742815d84bb66157739700f003))
+
 ## [1.3.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.2.0...v1.3.0) (2025-03-09)
 
 
