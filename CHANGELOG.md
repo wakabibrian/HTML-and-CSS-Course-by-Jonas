@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.4.0...v1.5.0) (2025-03-09)
+
+
+### Features
+
+* Add aside tag ([4082f96](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/4082f967fe3eb75043331f36f622db7445305248))
+
 ## [1.4.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.3.0...v1.4.0) (2025-03-09)
 
 
