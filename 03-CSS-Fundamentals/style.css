@@ -38,6 +38,25 @@ li {
 }
 
 /* Descendant selector: p element is a child of the footer element but leads to problems because we are encoding the HTML structure */
-footer p {
+/* footer p {
   font-size: 16px;
+} */
+
+/* ID names are used only once */
+#author {
+  font-style: italic;
+  font-size: 18px;
+}
+
+#copyright {
+  font-size: 16px;
+}
+
+.related-author {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.related {
+  list-style: none;
 }
