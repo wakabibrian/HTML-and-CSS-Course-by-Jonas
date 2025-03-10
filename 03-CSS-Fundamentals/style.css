@@ -96,6 +96,30 @@ li:last-child {
   color: red;
 } */
 
-article p:last-child {
+/* This works */
+/* article p:last-child {
   color: red;
+} */
+
+/* Styling Links */
+/* Target all the anchor elements with href attributes */
+a:link {
+  color: #1098ad;
+  text-decoration: none;
 }
+
+a:visited {
+  color: #1098ad;
+}
+
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline orangered;
+}
+
+a:active {
+  background-color: black;
+  color: white;
+}
+/* Always defined in the above order: LVHA */
