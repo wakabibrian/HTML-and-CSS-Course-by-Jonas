@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.8.0...v1.9.0) (2025-03-10)
+
+
+### Features
+
+* Add Pseudo-classes ([17ad207](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/17ad20700fc891fb4a633edc5eec2aeee7698140))
+* Add Styling Hyperlinks with pseudo classes ([30c4b98](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/30c4b98ee037d9e2805ad153d0fa4aa3c6727887))
+
 ## [1.8.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.7.0...v1.8.0) (2025-03-09)
 
 
