@@ -123,3 +123,20 @@ a:active {
   color: white;
 }
 /* Always defined in the above order: LVHA */
+
+/* Resolving Conflicts */
+/* #copyright {
+  color: red;
+}
+
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: green;
+} */
