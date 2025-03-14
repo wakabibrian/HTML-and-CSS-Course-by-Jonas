@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.10.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.9.0...v1.10.0) (2025-03-14)
+
+
+### Features
+
+* Add Conflicts Between Selectors ([e94fe89](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/e94fe89f82b16c16b26f8c50b2d647aa25ae1793))
+* Add Inheritance and the Universal Selector ([d79e8bb](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/d79e8bb72baf0e5fa08865affbac8c42d8cd013d))
+* Add Using Margins and Paddings ([d017868](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/d017868e16b2d83469825d9550a4ec5cfa129a4c))
+
 ## [1.9.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.8.0...v1.9.0) (2025-03-10)
 
 
