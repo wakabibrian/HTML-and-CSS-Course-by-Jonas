@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.11.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.10.0...v1.11.0) (2025-03-16)
+
+
+### Features
+
+* Add Adding Dimensions ([cad5275](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/cad5275a978857973573940a295f2d88f01d93d2))
+* Add Centering our Page ([e622c7c](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/e622c7cdecb9093cef732cbe6177549bbdc29cb7))
+
 ## [1.10.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.9.0...v1.10.0) (2025-03-14)
 
 
