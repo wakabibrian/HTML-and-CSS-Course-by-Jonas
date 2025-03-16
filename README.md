@@ -21,4 +21,9 @@ Do only occupy the space that they need for their content and they cause no line
 Box-model applies as showed. We can still set height and width, and we can still use margins and paddings
 Images (img element) are inline-block level elements
 
-- display: inline-block
+- display: inline-
+
+## Pseudo-elements
+
+These are elements that do not exist on the page but we can still select them and style e.g the first letter of a paragraph or the first line of the paragraph.
+-Pseudo classes are written with 1 colon and pseudo elements are written with 2 colons
