@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.12.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.11.0...v1.12.0) (2025-03-16)
+
+
+### Features
+
+* Add Absolute Positioning ([58aea8f](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/58aea8fef0f56b5ee10e7eb4058b27adf6e64698))
+* Add Pseudo-elements ([2055211](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/20552119699d0c67b6c97f3bcac3f75fcdab1e9a))
+* Add Types of Boxes ([b7638a0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/b7638a068dbd43e6118c92f6a7e94f8619c7490c))
+
 ## [1.11.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.10.0...v1.11.0) (2025-03-16)
 
 
