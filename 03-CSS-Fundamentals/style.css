@@ -20,6 +20,7 @@ body {
   padding-right: 40px; */
   padding: 20px 40px;
   margin-bottom: 60px;
+  height: 80px;
 }
 
 nav {
@@ -39,6 +40,7 @@ aside {
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
   padding: 50px 0;
+  width: 500px;
 }
 
 h1,
@@ -158,6 +160,14 @@ a:active {
   color: white;
 }
 /* Always defined in the above order: LVHA */
+
+.post-img {
+  /* When height or width was already specified in HTML */
+  /* width: 800px;
+  height: auto; */
+  width: 100%; /*Preferred because it adjusts as we change the size of the window*/
+  height: auto;
+}
 
 /* Resolving Conflicts */
 /* #copyright {
