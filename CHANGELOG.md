@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.13.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.12.0...v1.13.0) (2025-03-18)
+
+
+### Features
+
+* Add clear floats ([77d25c5](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/77d25c530b15407f4919cb32c48be51decc4026b))
+* Add Using floats ([e6de0aa](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/e6de0aa05b4d429f019fd069f66f2651977a6a18))
+
 ## [1.12.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.11.0...v1.12.0) (2025-03-16)
 
 
