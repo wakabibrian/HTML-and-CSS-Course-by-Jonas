@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.14.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.13.0...v1.14.0) (2025-03-18)
+
+
+### Features
+
+* Add box-sizing: border-box ([012ff04](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/012ff048fe9ac6e1f171950610d7619daab0307b))
+* Add Building a Simple Float Layout ([977215b](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/977215b3a1a2c7a48ae354312194928280708824))
+
 ## [1.13.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.12.0...v1.13.0) (2025-03-18)
 
 
