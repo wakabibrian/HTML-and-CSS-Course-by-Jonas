@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-  width: 800px;
+  width: 1200px;
   /* margin-left: auto;
   margin-right: auto; */
   margin: 0 auto; /*Margin on the left and right are the same and are calculated automatically*/
@@ -276,5 +276,20 @@ nav {
 .clearfix::after {
   content: "";
   display: block;
+  clear: both;
+}
+
+article {
+  width: 825px;
+  float: left;
+}
+
+aside {
+  width: 300px;
+  float: right;
+}
+
+/* You clear on the next element which you do not want to float around */
+footer {
   clear: both;
 }
