@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.15.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.14.0...v1.15.0) (2025-03-19)
+
+
+### Features
+
+* Add Introduction to Flexbox ([15a84c5](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/15a84c57d0ea6969037f9370bf373f554500f5df))
+* Add Spacing and Aligning Flex Items ([41bfdeb](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/41bfdeb1d2e6f52a2cf760a6b6459dd700baa04e))
+* Add The flex Property ([26e92df](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/26e92dfeed3894d2ee006638392ffe1fb4bd1529))
+
 ## [1.14.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.13.0...v1.14.0) (2025-03-18)
 
 
