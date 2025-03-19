@@ -56,7 +56,7 @@
         /* justify-content: flex-end; */
 
         /* ==== Manually Creating space between flex items ==== */
-        gap: 40px;
+        gap: 10px;
       }
 
       /* === Manually creating space between the flex items - old way === */
@@ -64,10 +64,31 @@
         margin-right: 40px;
       } */
 
+      .el {
+        /* DEFAULTS:
+        flex-grow: 0;
+        flex-shrink: 1;
+        flex-basis: auto;
+        */
+
+        /* Adding width to flex items */
+        /* flex-basis: 200px; */
+        /* Remove the shrink inside the container */
+        /* flex-shrink: 0; */
+
+        /* shorthand property: grow shrink basis */
+        /* flex: 0 0 200px; */
+
+        /* Grow and fit the flex container */
+        /* flex-grow: 1; */
+        flex: 1;
+      }
+
       /* ===aligning one item=== */
       .el--1 {
         align-self: flex-start;
         /* order: 2; */
+        flex-grow: 2;
       }
 
       .el--5 {
