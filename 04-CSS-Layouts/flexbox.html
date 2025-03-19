@@ -49,9 +49,35 @@
 
         /* ===aligning items Horizontally=== */
         /* justify-content: center; */
-        justify-content: space-between;
+        /* justify-content: space-between; */
         /* justify-content: space-around; */
         /* justify-content: space-evenly; */
+        justify-content: flex-start;
+        /* justify-content: flex-end; */
+
+        /* ==== Manually Creating space between flex items ==== */
+        gap: 40px;
+      }
+
+      /* === Manually creating space between the flex items - old way === */
+      /* .el {
+        margin-right: 40px;
+      } */
+
+      /* ===aligning one item=== */
+      .el--1 {
+        align-self: flex-start;
+        /* order: 2; */
+      }
+
+      .el--5 {
+        align-self: stretch;
+        order: 1;
+      }
+
+      /* ==== Ordering one item ===== */
+      .el--6 {
+        order: -1;
       }
     </style>
   </head>
