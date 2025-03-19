@@ -1,6 +1,6 @@
 {
   "name": "html-and-css",
-  "version": "1.15.0",
+  "version": "1.16.0",
   "scripts": {
     "start": "node index.js",
     "release": "standard-version"

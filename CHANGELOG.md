@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.16.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.15.0...v1.16.0) (2025-03-19)
+
+
+### Features
+
+* Add Adding Flexbox to Our Project ([bdd717f](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/bdd717fabf7373c756306d743f46a1dfc867e2ba))
+* Add Building a Simple Flexbox Layout ([1be1909](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/1be1909a44bc69bff4349d938b64fd4a94aa6a89))
+
 ## [1.15.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.14.0...v1.15.0) (2025-03-19)
 
 
