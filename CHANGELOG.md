@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.18.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.17.0...v1.18.0) (2025-03-20)
+
+
+### Features
+
+* Add Aligning Grid Items and Tracks ([16a6f74](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/16a6f7433c75bda156651de1c6490304b7d31d56))
+* Add Building a Simple CSS Grid Layout ([2ab0506](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/2ab0506858c66f67e527afd3bb7f11ad5a103327))
+
 ## [1.17.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.16.0...v1.17.0) (2025-03-20)
 
 
