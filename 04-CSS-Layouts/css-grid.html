@@ -55,21 +55,9 @@
         /* gap: 30px; */
         column-gap: 30px;
         row-gap: 60px;
-      }
 
-      .container--2 {
+        /* TEMPORALLY */
         display: none;
-
-        /* STARTER */
-        font-family: sans-serif;
-        background-color: black;
-        font-size: 40px;
-        margin: 100px;
-
-        width: 1000px;
-        height: 600px;
-
-        /* CSS GRID */
       }
 
       .el--8 {
@@ -86,8 +74,42 @@
         grid-row: 2/3;
       }
 
-      .el--6 {
+      /* .el--6 {
         grid-row: 3/6;
+      } */
+
+      .container--2 {
+        /* STARTER */
+        font-family: sans-serif;
+        background-color: black;
+        font-size: 40px;
+        margin: 100px;
+
+        width: 1000px;
+        height: 600px;
+
+        /* CSS GRID */
+        display: grid;
+        grid-template-columns: 125px 200px 125px;
+        grid-template-rows: 250px 100px;
+        gap: 50px;
+
+        /* Aligning tracks inside of container - distributing empty space */
+        justify-content: center;
+        /* justify-content: space-between; */
+
+        align-content: center;
+        /* align-content: space-between;
+        align-content: end; */
+
+        /* Align ITEMS inside cells */
+        align-items: center;
+        justify-items: center;
+      }
+
+      .el--3 {
+        align-self: end;
+        justify-self: end;
       }
     </style>
   </head>
