@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.20.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.19.0...v1.20.0) (2025-03-22)
+
+
+### Features
+
+* Add Implementing Border-radius ([de60105](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/de601053480d9b6a2595bcacd5d7512820b36272))
+* Add Implementing Shadows ([a34670a](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/a34670aab3ed20af7d51e5d74e3c5d0d8fc30a61))
+
 ## [1.19.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.18.1...v1.19.0) (2025-03-22)
 
 
