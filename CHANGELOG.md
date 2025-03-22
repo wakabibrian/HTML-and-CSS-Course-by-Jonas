@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.19.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.18.1...v1.19.0) (2025-03-22)
+
+
+### Features
+
+* Add Implementing Colors ([2ef37a6](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/2ef37a63d7b783517ce52951e705487685879541))
+* Add Implementing Icons ([84f34ed](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/84f34ed6a4279226ac567c56fe09fd10d777e512))
+* Add Implementing Typography ([43ce788](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/43ce7889ad748eac003c98068f08a597bb968f08))
+
 ### [1.18.1](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.18.0...v1.18.1) (2025-03-21)
 
 ## [1.18.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.17.0...v1.18.0) (2025-03-20)
