@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.21.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.20.0...v1.21.0) (2025-03-25)
+
+
+### Features
+
+* Add Implementing Whitespace and Visual Hierarchy ([1d396e6](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/1d396e6ad63f6ca4912219fddf12a42c57fe10dc))
+
 ## [1.20.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.19.0...v1.20.0) (2025-03-22)
 
 
