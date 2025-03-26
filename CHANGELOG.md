@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.22.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.21.0...v1.22.0) (2025-03-26)
+
+
+### Features
+
+* Add accordion practice ([5156f99](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/5156f99f13e487e945d2861b82127765c9ee0d3c))
+* Add Building an Accordion Component ([1310d77](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/1310d7757bcda5466d6d7e4c5b8520cd735c6cb0))
+
 ## [1.21.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.20.0...v1.21.0) (2025-03-25)
 
 
