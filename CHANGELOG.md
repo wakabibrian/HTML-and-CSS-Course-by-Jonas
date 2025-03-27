@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.23.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.22.0...v1.23.0) (2025-03-27)
+
+
+### Features
+
+* Add Carousel Component ([2b272de](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/2b272de4406e399210bd24865a4c093debf8082a))
+* Add carousel-practice ([16ee1f3](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/16ee1f323f55f07d6e3db1ada4f425ac90be12c3))
+
 ## [1.22.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.21.0...v1.22.0) (2025-03-26)
 
 
