@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.24.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.23.0...v1.24.0) (2025-03-27)
+
+
+### Features
+
+* Add table component ([71c107a](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/71c107a3c58ce69bf4c9b3de72d78b03ffc13536))
+* Add table component practice ([ba2a26f](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/ba2a26f45a215fa40701e9b4ce903af65e336f1b))
+
 ## [1.23.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.22.0...v1.23.0) (2025-03-27)
 
 
