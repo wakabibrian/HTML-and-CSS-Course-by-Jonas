@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.27.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.26.0...v1.27.0) (2025-04-04)
+
+
+### Features
+
+* Add Web Application Layout ([81e4584](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/81e45840ac02776ba528562cd94330d023182499))
+
 ## [1.26.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.25.0...v1.26.0) (2025-04-02)
 
 
