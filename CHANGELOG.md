@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.28.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.27.0...v1.28.0) (2025-04-06)
+
+
+### Features
+
+* Add Planning sections ([5b37781](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/5b37781b5c13f23fc0d7d48d988d14b57a6793d8))
+
 ## [1.27.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.26.0...v1.27.0) (2025-04-04)
 
 
