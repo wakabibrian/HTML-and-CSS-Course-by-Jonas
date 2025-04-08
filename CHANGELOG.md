@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.29.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.28.0...v1.29.0) (2025-04-08)
+
+
+### Features
+
+* Add First Design and Development Steps, sytems ([c503489](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/c5034890be149bc312e42e3bae373858222116c5))
+* Add How rem and max-width Work ([7817d7e](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/7817d7e77795fe3a80b00bc0a711ec4d3752e184))
+
 ## [1.28.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.27.0...v1.28.0) (2025-04-06)
 
 
