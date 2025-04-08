@@ -51,20 +51,13 @@ body {
   color: #555;
 }
 
-.test {
-  background-color: aqua;
+.hero {
+  max-width: 130rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 
-  /* width: 1000px; */
-  /* max-width: If the width of the container is greater than the specified width of the element, then the width of the element is equal to the specified width, but if the width of the container is less than the width of the element then the width of the element is equal to 100% the container width */
-  /* max-width: 1000px; */
-
-  /* rem: Is root elements font size. */
-  /* root of the document is <html> element */
-  /* If we don't define any font size on this element then 1rem is equal to the default font size, which is always 16px unless the user changes it. */
-  max-width: 50rem;
-  /* 1rem = 16px */
-  /* 500rem = 16*50 = 800px */
-  /* padding: 100px; */
-  padding: 4rem;
-  font-size: 2rem;
+.hero-img {
+  width: 100%;
 }
