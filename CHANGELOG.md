@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.30.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.29.0...v1.30.0) (2025-04-10)
+
+
+### Features
+
+* Add  Building the Hero - Part 3 ([8e0079a](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/8e0079addf1d5f87ead7699c7fa61bebc178588e))
+* Add Building the Hero - Part 1 ([5cf8dd7](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/5cf8dd71ab35d6cabd3f443207b8d97e628a297e))
+* Add Building the Hero - Part 2 ([aebe95f](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/aebe95fdca896d9ea5715539ec7fe8be4c08f987))
+
 ## [1.29.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.28.0...v1.29.0) (2025-04-08)
 
 
