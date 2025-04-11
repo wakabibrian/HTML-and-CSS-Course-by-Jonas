@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.32.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.31.0...v1.32.0) (2025-04-11)
+
+
+### Features
+
+* Add Setting Up a Reusable Grid ([e0cfca2](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/e0cfca2a9dc279a3ba01d2cb88d93fda383ce928))
+
 ## [1.31.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.30.0...v1.31.0) (2025-04-11)
 
 
