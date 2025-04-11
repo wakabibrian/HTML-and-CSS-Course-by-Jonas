@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.31.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.30.0...v1.31.0) (2025-04-11)
+
+
+### Features
+
+* Add Building the Header ([f308a98](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/f308a98133b617f6d32ab27e8cd079d9c145d4e1))
+* Add Building the Navigation ([51b1a97](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/51b1a97b6858331f088ceea18992fd561fe1a0a6))
+
 ## [1.30.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.29.0...v1.30.0) (2025-04-10)
 
 
