@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.34.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.33.0...v1.34.0) (2025-04-25)
+
+
+### Features
+
+* Add Building the Featured-In Section ([b62df0c](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/b62df0c2ec7e9cf2699c256b8ba287204fd40426))
+
 ## [1.33.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.32.0...v1.33.0) (2025-04-23)
 
 
