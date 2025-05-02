@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.36.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.35.0...v1.36.0) (2025-05-02)
+
+
+### Features
+
+* Add Building the Testimonials Section - Part 1 ([4f10c85](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/4f10c854746f443dea250b3e94457f1c928f4578))
+* Add Building the Testimonials Section - Part 2 ([1025e4f](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/1025e4fe5a4bc3f1c6eeb6b3a1f4cc08cafccc5d))
+
 ## [1.35.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.34.0...v1.35.0) (2025-05-02)
 
 
