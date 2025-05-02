@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.35.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.34.0...v1.35.0) (2025-05-02)
+
+
+### Features
+
+* Add Building the Meals Section - Part 1 ([1c82a96](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/1c82a9697502d7ff06fe44946a4e9bb4d64fd4ad))
+* Add Building the Meals Section - Part 2 ([7fb161d](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/7fb161d57d801edcdfcb8eba4bb46e9a36801271))
+* Add Building the Meals Section - Part 3 ([dc28255](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/dc28255975d7670e12cde5d4a8fce32d5e8da7d9))
+
 ## [1.34.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.33.0...v1.34.0) (2025-04-25)
 
 
