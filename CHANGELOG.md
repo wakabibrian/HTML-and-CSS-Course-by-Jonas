@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.37.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.36.0...v1.37.0) (2025-05-03)
+
+
+### Features
+
+* Add Building the Features Part ([18b3976](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/18b39765b31e956082459e8aa3f0f0c1aa3f7d16))
+* Add Building the Pricing Section - Part 1 ([d9c6af5](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/d9c6af56dea25784f82f4f7bfe3b97269c8cb3b0))
+* Add Building the Pricing Section - Part 2 ([8b68bde](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/8b68bde77117aff6093274822f3eb0614ae7ff73))
+
 ## [1.36.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.35.0...v1.36.0) (2025-05-02)
 
 
