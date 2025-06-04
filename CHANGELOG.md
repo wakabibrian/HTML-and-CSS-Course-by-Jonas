@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.38.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.37.0...v1.38.0) (2025-06-04)
+
+
+### Features
+
+* Add Building the Call-To-Action Section ([8da0a2c](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/8da0a2c5836f55de775ab709867bef34b9fd8327))
+
 ## [1.37.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.36.0...v1.37.0) (2025-05-03)
 
 
