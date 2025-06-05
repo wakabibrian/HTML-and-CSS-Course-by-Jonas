@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.39.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.38.0...v1.39.0) (2025-06-05)
+
+
+### Features
+
+* Add Building the Footer ([760d314](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/commit/760d314530c75d93801e6f5ce8db52af1ca5d927))
+
 ## [1.38.0](https://github.com/wakabibrian/HTML-and-CSS-Course-by-Jonas/compare/v1.37.0...v1.38.0) (2025-06-04)
 
 
